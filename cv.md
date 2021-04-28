@@ -43,5 +43,3 @@ English
  Source Control Systems: Bitbucket, Github, Gitlab
  Development tools: Xcode, Zeplin
  + : ARC, GCD, API
-
- Work hard, play hard :)

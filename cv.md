@@ -1,5 +1,5 @@
 ## Mikhail Skuratov
- 
+
 ##### Contact info:
 
  Ph.  nubmer | Email
@@ -45,4 +45,3 @@ English
  + : ARC, GCD, API
 
  Work hard, play hard :)
-

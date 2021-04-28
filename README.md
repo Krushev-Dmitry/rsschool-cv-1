@@ -1,1 +1,1 @@
-# rsschool-cv
+https://skuratovm.github.io/rsschool-cv/cv
